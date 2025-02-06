@@ -3,7 +3,7 @@ Files relating to a project analyzing the influence of various factors on partic
 ## Files
 ### Metadata.docx
 This contains an explanation of the initial (pre-cleaning) variable names, their meaning, and a R Outputs for the file ExplorationcodeR.R
-### mba_decision_dataset
+### mba_decision_dataset.xlsx
 This is the data used. It did not have duplicates nor nulls. Columns were cleaned into snake_case
 ### CategoricalVarAnalysisR.R
 This has chi-square tests and stacked chart codes for all categorical variable
